@@ -56,8 +56,8 @@ $ git clone https://github.com/breatheco-de/exercise-conditional-profile-card.gi
 
 3. Instala los paquetes NPM (asegúrate de usar la última versión de node): `npm install`
 
-4. Corre el proyecto utilizando:  `npm run start`
-
+4. Corre el proyecto utilizando:  `t`
+npm run star
 5. Actualiza la función `render` dentro del archivo app.js.
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
